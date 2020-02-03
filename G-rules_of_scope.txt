@@ -1,0 +1,5 @@
+this are some general rules of scope,this rules are gonna be usefull but at the end of the day
+it's not allways gonne be true.
+
+1. look for curly braces ("{}") this is considered a scope.
+
